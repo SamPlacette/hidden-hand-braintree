@@ -1,0 +1,9 @@
+{
+  "name": "hidden-hand-braintree",
+  "subdomain": "samplacette-hhbt",
+  "description": "Accept payments on your site without writing code.",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
