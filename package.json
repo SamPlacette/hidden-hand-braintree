@@ -2,7 +2,7 @@
   "name": "hidden-hand-braintree",
   "subdomain": "hidden-hand-payments",
   "description": "Accept payments on your site without writing code.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "start": "node index.js"
   },
