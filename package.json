@@ -3,6 +3,9 @@
   "subdomain": "hidden-hand-payments",
   "description": "Accept payments on your site without writing code.",
   "version": "0.0.9",
+  "dependencies": {
+      "express": "3.1.x"
+  },
   "scripts": {
     "start": "node index.js"
   },
